@@ -7,12 +7,12 @@ O ViewPager é um importante componente visual do Android, permite gerenciar, po
 
 A imagem abaixo mostra a estrutura do ViewPager:
 
-![Gráfico](ESTRUTURA_VIEWPAGER.PNG) 
+![Gráfico](ESTRUTURA_VIEWPAGER.png) 
 
 ## - Exemplo utilizando ViewPager
 
-![Gráfico](Screenshot_20220113_114246.PNG) 
+![Gráfico](Screenshot_20220113_114246.png) 
 
-![Gráfico](Screenshot_20220113_114251.PNG) 
+![Gráfico](Screenshot_20220113_114251.png) 
 
-![Gráfico](Screenshot_20220113_114302.PNG) 
+![Gráfico](Screenshot_20220113_114302.png) 
